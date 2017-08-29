@@ -1,2 +1,2 @@
 # alpine-ants
- Alpine-based ANTs docker container 
+ Alpine-based [ANTs](http://stnava.github.io/ANTs/) docker container 
